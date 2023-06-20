@@ -1,0 +1,4 @@
+pytest~=7.3.2
+requests~=2.31.0
+jsonschema~=4.17.3
+allure_pytest~=2.7.1
