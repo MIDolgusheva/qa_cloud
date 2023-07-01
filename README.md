@@ -3,7 +3,8 @@
 
 #### PREREQUISITES
 1. Скачайте репозиторий
-2. Установите pip
+2. Cоздайте виртулальное окружение и активируйте его
+2. При необходимости, установите pip
 3. Установите  [allure2]( https://docs.qameta.io/allure/#_installing_a_commandline) и настройте переменную среды JAVA_HOME
 #### RUN
 

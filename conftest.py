@@ -23,6 +23,6 @@ class ApiClient:
             return requests.delete(url=url, headers=headers)
 
 
-@pytest.fixture
+@pytest.fixture(scope="session")
 def api_client():
     return ApiClient(base_address="https://jsonplaceholder.typicode.com")
